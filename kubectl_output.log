@@ -1,1 +1,1 @@
-error: Error loading config file "/root/.kube/config": yaml: line 21: found a tab character that violates indentation
+error: error parsing cluster_template/tomcat-service.yml: error converting YAML to JSON: yaml: invalid map key: map[interface {}]interface {}{"demo_tomcat":interface {}(nil)}
