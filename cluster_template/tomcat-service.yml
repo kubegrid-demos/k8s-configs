@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: demo-tomcat
-        image: kubegrid/demo-tomcat
+        image: {{ demo-tomcat }}
         ports:
         - containerPort: 8080
 ---
