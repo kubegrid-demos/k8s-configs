@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: demo-tomcat
-        image: {{ demo-tomcat }}
+        image: {{ demo_tomcat }}
         ports:
         - containerPort: 8080
 ---
