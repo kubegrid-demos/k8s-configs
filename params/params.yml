@@ -1,4 +1,0 @@
----
-MONGODB_PASSWORD: "secret"
-MONGODB_USER: "carl"
-REPLICA_COUNT: "2"
