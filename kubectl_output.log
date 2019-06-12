@@ -1,1 +1,1 @@
-error: error parsing cluster_template/tomcat-service.yml: error converting YAML to JSON: yaml: invalid map key: map[interface {}]interface {}{"demo-tomcat":interface {}(nil)}
+error: error parsing cluster_template/tomcat-service.yml: error converting YAML to JSON: yaml: invalid map key: map[interface {}]interface {}{"demo_tomcat":interface {}(nil)}
